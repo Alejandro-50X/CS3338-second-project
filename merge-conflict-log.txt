@@ -1,0 +1,10 @@
+* 7364ac1 changed big short to interstellar in index.html
+| * 6b5db13 Update index.html
+|/  
+* 25b58f9 Update index.html
+* f6c2c47 added repo-location.text with repo link
+* b524a80 added favorite movie to index.html
+* 35298ff added my favorite food to index.html
+* 811e4ac Create README.md
+* ddf7cc1 Updated the blank messages in index.html
+* 1d2bfc0 Added index.html
